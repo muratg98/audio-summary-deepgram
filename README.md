@@ -22,7 +22,7 @@ My pharmacist friend and I were talking and this issue had arrised - in many con
 
 ## 📸 Screenshot
 
-(Optional — add here if you have one)
+![App Screenshot](./audiosumimage.png)
 
 ## 🛠️ Tech Stack
 
